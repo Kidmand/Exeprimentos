@@ -1,0 +1,2 @@
+
+    usleep(tiempo); 
